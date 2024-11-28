@@ -36,4 +36,40 @@ JAVA 8 features to learn
     Find TagNo=001
     Comment out below code only for TagNo=001
     Comment others and run
+
+1.Lambda Expression
+    It is an expression that represent a Functional Interface. It is used in operation on stream collection.
     
+    (arguments)->{expression}
+    ()->{body}
+    (p)->{body}
+    (p1,p2)->{body}
+
+    Find the example in src/LambdaExpression,
+    Open Main.java
+    Find TagNo=002
+    Comment out below code only for TagNo=001
+    Comment others and run
+    
+    Home work:
+        //Write a Java program to implement a lambda expression to find the sum of two integers
+        Find the example in src/OtherExample/SumOfTwoInt,
+        Open Main.java
+        Find TagNo=003
+        Comment out below code only for TagNo=001
+        Comment others and run
+
+        //Write a Java program to implement a lambda expression to check if a given string is empty.
+        Find the example in src/OtherExample/CheckForEmptyString,
+        Open Main.java
+        Find TagNo=004
+        Comment out below code only for TagNo=001
+        Comment others and run
+        
+        // Write a Java program to implement a lambda expression to convert a list of strings
+        // to uppercase and lowercase.
+        Find the example in src/OtherExample/SwitchCase,
+        Open Main.java
+        Find TagNo=005
+        Comment out below code only for TagNo=001
+        Comment others and run
